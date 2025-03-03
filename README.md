@@ -1,10 +1,10 @@
 Health & Habit EDA on Fitness Tracker
 
-📌 Project Overview
+Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on fitness tracker data to uncover insights about health and habits. The dataset contains information such as step count, heart rate, sleep patterns, calorie intake, and other lifestyle factors. The goal is to analyze and visualize trends to understand how habits impact overall health.
 
-📂 Dataset
+Dataset
 
 The dataset includes user activity logs from fitness trackers.
 
@@ -12,7 +12,7 @@ Common attributes: steps, heart_rate, calories_burned, sleep_hours, activity_dur
 
 Data source: Provide dataset source if applicable (e.g., Kaggle, Fitbit API, or simulated data).
 
-🔍 Analysis Performed
+Analysis Performed
 
 Data Cleaning: Handling missing values, outliers, and formatting inconsistencies.
 
@@ -24,7 +24,7 @@ Correlation Analysis: Finding relationships between different health indicators.
 
 Habit Impact Study: Analyzing how daily habits (e.g., exercise, sleep) affect overall fitness.
 
-🛠️ Tech Stack
+Tech Stack
 
 Programming Language: Python
 
@@ -32,13 +32,13 @@ Libraries Used: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 Jupyter Notebook for interactive analysis
 
-📊 Key Findings
+Key Findings
 
 Summarize interesting insights discovered during the analysis.
 
 Example: "Users who sleep more than 7 hours tend to have a lower resting heart rate."
 
-📜 Usage
+Usage
 
 Clone the repository:
 
@@ -58,7 +58,7 @@ jupyter notebook
 
 Open eda_fitness_tracker.ipynb to explore the analysis.
 
-🚀 Future Scope
+Future Scope
 
 Include predictive modeling for habit recommendations.
 
