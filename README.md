@@ -42,7 +42,7 @@ Example: "Users who sleep more than 7 hours tend to have a lower resting heart r
 
 Clone the repository:
 
-git clone https://github.com/your-username/health-habit-eda.git
+git clone https://github.com/kkpatel2004/EDA-Fitness-Tracker-.git 
 
 Navigate to the project directory:
 
