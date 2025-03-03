@@ -66,7 +66,3 @@ Expand analysis with additional datasets.
 
 Create an interactive dashboard using Streamlit.
 
-🤝 Contributing
-
-Feel free to fork this repository and submit pull requests for improvements!
-
