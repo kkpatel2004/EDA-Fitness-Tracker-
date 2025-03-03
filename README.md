@@ -1,6 +1,7 @@
 Health & Habit EDA on Fitness Tracker
 
 📌 Project Overview
+
 This project performs **Exploratory Data Analysis (EDA)** on fitness tracker data to uncover insights about health and habits. The dataset contains information such as step count, heart rate, sleep patterns, calorie intake, and other lifestyle factors. The goal is to analyze and visualize trends to understand how habits impact overall health.
 
 📂 Dataset
